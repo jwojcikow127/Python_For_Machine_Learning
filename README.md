@@ -1,4 +1,4 @@
-# Python_For_Machine_Learning
+# Forecasting life expectancy based on economic factors
 
 A project completed for a class on "Python for Machine Learning and Data Science". 
 
